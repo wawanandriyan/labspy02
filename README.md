@@ -30,7 +30,7 @@
  
  
 # Selanjutnya kita mengetahui setelah RUN yang benar:
-![iftrue/false](https://user-images.githubusercontent.com/56243690/67921873-b2f01980-fbdb-11e9-82f4-7b145716d272.png)
+
 
 
 
