@@ -26,8 +26,9 @@
     NomBil = "Bilangan 3"
     
 # Selanjutnya menggunakan bilangan besar adalah
-  print("Bilangan yang terbesar adalah", NomBil, "dengan nilai", Terbesar)
- 
+print("Bilangan yang terbesar adalah", NomBil, "dengan nilai", Terbesar)
+![ss nombil](https://user-images.githubusercontent.com/56245966/68082495-24380280-fe50-11e9-8ec6-d2c9b351abc6.png)
+
  
 # Selanjutnya kita mengetahui setelah RUN yang benar:
 
@@ -37,7 +38,7 @@
 
 
  Pada if segment diatas memiliki ketentuan nilai if pertama harus bernilai true barulah nilai if yang berikutnya yang akan di proses atau dieksekusi, namun jika nilai if pertama bernilai false maka nilai if yang berikutnya tidak akan di proses, namun jika nilai if yang pertama bernilai true sedangkan nilai if yang kedua bernilai false maka yang akan di proses hanyalah if yang pertama. Berikut hasilnya jika if segment yang kita masukan bernilai true :
-![iftrue/false](https://github.com/alviandwipramono/labspy02/blob/master/step.png)
+
 
 selanjutnya kita juga bisa menambahkan is dan is not pada if segment seperti dibawah ini :
 
