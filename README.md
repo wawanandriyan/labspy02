@@ -31,7 +31,7 @@ print("Bilangan yang terbesar adalah", NomBil, "dengan nilai", Terbesar)
 
  
 # Selanjutnya kita mengetahui setelah RUN yang benar:
-
+![ss pycharm](https://user-images.githubusercontent.com/56245966/68082693-42066700-fe52-11e9-82d3-d6b0438817ef.png)
 
 
 
