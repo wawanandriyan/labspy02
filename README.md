@@ -27,7 +27,7 @@
     
 # Selanjutnya menggunakan bilangan besar adalah
 print("Bilangan yang terbesar adalah", NomBil, "dengan nilai", Terbesar)
-![ss nombil](https://user-images.githubusercontent.com/56245966/68082495-24380280-fe50-11e9-8ec6-d2c9b351abc6.png)
+![ss nombil1](https://user-images.githubusercontent.com/56245966/68082898-d70a5f80-fe54-11e9-88ed-0e7cb090acb2.png)
 
  
 # Selanjutnya kita mengetahui setelah RUN yang benar:
